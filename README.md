@@ -1,3 +1,3 @@
 # nvim-configs
-cd ~/.configs
-git clone [url]
+- cd ~/.configs
+- git clone [url]
