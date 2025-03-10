@@ -1,0 +1,33 @@
+# Ignore swap files
+*.swp
+*.swo
+
+# Ignore undo files
+undo/
+*.un~
+
+# Ignore backup files
+backup/
+*.bak
+
+# Ignore session files
+session/
+
+# Ignore plugin-specific cache (Lazy.nvim, Packer, Mason, Treesitter, etc.)
+lazy/
+plugin/
+mason/
+packer_compiled.lua
+site/
+
+# Ignore logs
+*.log
+
+# Ignore LSP logs and cache
+.lsp/
+.lsp_log/
+.nv/
+.cache/
+
+# Ignore temporary Neovim files
+*.tmp
